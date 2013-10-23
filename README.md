@@ -4,7 +4,11 @@ Interview Problem Data Science Team
 ### Task 
 
 The goal of this test is to analyze the consumption of an office building in San Francisco Bay Area and find "interesting information" 
-Attached is an extract from different tables (hourly consumption data and weather)
+
+Attached is an extract from different tables (hourly consumption data and weather):
+- hourly consumption : https://github.com/lpoirier/interview/blob/master/OfficeSouthBay_data.csv
+- weather info : https://github.com/lpoirier/interview/blob/master/OfficeSouthBay_weather.csv
+
 Please have a look at it and figure out what information you can get out of it (I am sure you have other things to do / other interviews, so don't spend more than a few hours on it).
 
 A few ideas of questions (not mandatory nor exhaustive):
