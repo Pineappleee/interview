@@ -9,7 +9,7 @@ Attached is an extract from different tables (hourly consumption data and weathe
 - hourly consumption : https://github.com/lpoirier/interview/blob/master/OfficeSouthBay_data.csv
 - weather info : https://github.com/lpoirier/interview/blob/master/OfficeSouthBay_weather.csv
 
-Please have a look at it and figure out what information you can get out of it (I am sure you have other things to do / other interviews, so don't spend more than a few hours on it).
+Please have a look at it and figure out what information you can get out of it.
 
 A few ideas of questions (not mandatory nor exhaustive):
 - building operation characteristics
@@ -29,4 +29,4 @@ A few ideas of questions (not mandatory nor exhaustive):
 2.  Data is a bit dirty, contains gaps, and dates are shifted because of time zone so be a bit careful ;)
 3.  Units are US System (Fahrenheit, precipitation = inches, solar = W/ft^2),  consumption is in kWh.
 4.  Ideas of how to exploit your findings for new products, limitations to your approach, external data sources you would like to use, or anything to fill the gap between a prototype and a deployed product, are good comments to put in the explanation
-
+5.  This test is not intended to take you more than a few hours
