@@ -6,8 +6,8 @@ Interview Problem Data Science Team
 The goal of this test is to analyze the consumption of an office building in the San Francisco Bay Area and find "interesting information".
 
 Attached is an extract from two tables:
-- hourly consumption : https://raw.github.com/lpoirier/interview/master/OfficeSouthBay_data.csv
-- weather info : https://raw.github.com/lpoirier/interview/master/OfficeSouthBay_weather.csv
+- hourly consumption : https://raw.github.com/lpoirier/interview/master/challenge_datamining/OfficeSouthBay_data.csv
+- weather info : https://raw.github.com/lpoirier/interview/master/challenge_datamining/OfficeSouthBay_weather.csv
 
 Please have a look and figure out what conclusions you can draw.  
 
